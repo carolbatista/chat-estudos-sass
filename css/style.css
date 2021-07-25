@@ -1,9 +1,10 @@
 * {
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  margin: 0;
   font-family: sans-serif;
   color: #7F808C;
 }
@@ -74,3 +75,5 @@ body {
 #chat li.me strong {
   display: none;
 }
+
+/*# sourceMappingURL=style.css.map */
